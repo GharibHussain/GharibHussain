@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on gaining SUPER SKILLS<br>👯 I’m looking to collaborate on PRACTICAL PROJECTS<br>🤝 I’m looking for help with :)<br>🌱 I’m currently learning SO MANY THINGS<br>💬 Ask me about print("Hello World!")<br>⚡ Fun fact A MASTER OF PROGRAMMING LANGUAGES
+🔭 I’m currently working on Full-stack Web and Mobile Development, Image Processing, as well as AI/ML<br>👯 I’m looking to collaborate on Real-world Projets<br>🤝 I’m looking for help with getting an internship or a job in teck:)<br>🌱 I’m currently learning SO MANY THINGS<br>💬 Ask me about print("Hello World!")<br>⚡ Fun fact A MASTER OF PROGRAMMING LANGUAGES, MATH & ANALYTICAL THINKINKG
 
 
 # 💻 Tech Stack:
